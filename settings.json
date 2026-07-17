@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "PerzaanLive",
+    "username": "ilovesushii.aternos.me",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "example.aternos.me",
-    "port": 92591,
+    "port": 35748,
     "version": "1.21.1"
   },
   "position": {
@@ -78,7 +78,7 @@
   },
   "discord": {
     "enabled": true,
-    "webhookUrl": "https://discord.com/api/webhooks/1472567640521183243/7DzSIaCSM_9-5DjzrlAuP9Tdj7Y3yAP6BHg3scKzhaRFdVk8ctWBlhOc7I8l5xC6Nqm3",
+    "webhookUrl": "https://discord.com/api/webhooks/1527512456363245720/jUk2ig63wjEG1poTvEDb0ulqLTRcSpGqi7f9GZk3PQAUTDWmzyzhOccRyEVlIAySMe62",
     "events": {
       "connect": true,
       "disconnect": true,
